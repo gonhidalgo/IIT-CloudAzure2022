@@ -1,0 +1,12 @@
+﻿@page
+@model Project1.Pages.F2CModel
+@{
+}
+
+<form method="post">
+    <label asp-for="InputValue">Please, enter a valid number to be converted from Fahrenheit to Celsius.</label>
+    <input asp-for="InputValue" type="text" />
+    <button>Submit</button>
+
+</form>
+<p>@Model.ConversionResult</p>

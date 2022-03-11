@@ -1,0 +1,24 @@
+﻿@page
+@model Project2.Pages.MortgageCalcModel
+@{
+}
+
+<form method="post">
+
+    <div class="form-group">
+        <label for="InputValueLoan">Loan</label>
+        <input asp-for="InputValueLoan" class="form-control" id="InputValueLoan" aria-describedby="emailHelp" placeholder="Enter Loan">
+    </div>
+    <div class="form-group">
+        <label for="InputValueInterest">Interest</label>
+        <input asp-for="InputValueInterest" class="form-control" id="InputValueInterest" placeholder="Enter Interest">
+    </div>
+    <div class="form-group">
+        <label for="InputValueDuration">Duration</label>
+        <input asp-for="InputValueDuration" class="form-control" id="InputValueDuration" placeholder="Enter Duration">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Compute</button>
+
+</form>
+<p>@Model.MortgageResult</p>
