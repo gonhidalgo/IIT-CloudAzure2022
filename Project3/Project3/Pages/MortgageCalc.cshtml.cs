@@ -30,9 +30,9 @@ namespace Project2.Pages
             if (ModelState.IsValid)
             {
                 double FinalValue = MortgageCalcHelper.ComputeMonthlyPayment(InputValueLoan.Value, InputValueDuration.Value, InputValueInterest.Value);
-                //double rounded = System.Math.Round(FinalValue, 2);
-                //MortgageResult = $"The monthly payment is ${rounded} for a loan of ${InputValueLoan.Value} for {InputValueDuration.Value} and an interest rate of {InputValueInterest.Value}";
-                MortgageResult = $"The monthly payment is ${FinalValue} for a loan of ${InputValueLoan.Value} for {InputValueDuration.Value} and an interest rate of {InputValueInterest.Value}";
+                double rounded = System.Math.Round(FinalValue, 2);
+                MortgageResult = $"The monthly payment is ${rounded} for a loan of ${InputValueLoan.Value} for {InputValueDuration.Value} and an interest rate of {InputValueInterest.Value}";
+                //MortgageResult = $"The monthly payment is ${FinalValue} for a loan of ${InputValueLoan.Value} for {InputValueDuration.Value} and an interest rate of {InputValueInterest.Value}";
 
             }
             else
