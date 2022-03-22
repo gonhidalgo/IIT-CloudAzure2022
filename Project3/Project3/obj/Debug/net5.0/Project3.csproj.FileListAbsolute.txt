@@ -38,3 +38,5 @@ C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\L
 C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\Project3\obj\Debug\net5.0\Project3.pdb
 C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\Project3\obj\Debug\net5.0\Project3.genruntimeconfig.cache
 C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\Project3\obj\Debug\net5.0\Project3.csproj.CopyComplete
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\Project3\obj\Debug\net5.0\Project3.csproj.AssemblyReference.cache
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\Project3\bin\Debug\net5.0\MortgageCalculator.dll

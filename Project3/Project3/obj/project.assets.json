@@ -2,34 +2,34 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "GonzaloMortgageCalculator/1.0.0": {
+      "MortgageCalculator-GonzaloHidalgo/1.0.0": {
         "type": "package",
         "compile": {
-          "lib/net5.0/GonzaloMortgageCalculator.dll": {}
+          "lib/net5.0/MortgageCalculator.dll": {}
         },
         "runtime": {
-          "lib/net5.0/GonzaloMortgageCalculator.dll": {}
+          "lib/net5.0/MortgageCalculator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "GonzaloMortgageCalculator/1.0.0": {
-      "sha512": "P+ubbTH0fzLhF7jXVq6BZp02lFOlkB6Kfa87fSPf2u3K5//YMaUUeVrcPE+Lm/XeS3S+SlQctvFJgpz3pZMvag==",
+    "MortgageCalculator-GonzaloHidalgo/1.0.0": {
+      "sha512": "vnu9OO59Hck2BuNk5vMut8CYhdFfTqNQKBD7Vh8JF97VudhW2HMvsuPEdEs6iE9c1Ei45DQ3behek1wx54VHbg==",
       "type": "package",
-      "path": "gonzalomortgagecalculator/1.0.0",
+      "path": "mortgagecalculator-gonzalohidalgo/1.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "gonzalomortgagecalculator.1.0.0.nupkg.sha512",
-        "gonzalomortgagecalculator.nuspec",
-        "lib/net5.0/GonzaloMortgageCalculator.dll"
+        "lib/net5.0/MortgageCalculator.dll",
+        "mortgagecalculator-gonzalohidalgo.1.0.0.nupkg.sha512",
+        "mortgagecalculator-gonzalohidalgo.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "GonzaloMortgageCalculator >= 1.0.0"
+      "MortgageCalculator-GonzaloHidalgo >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -77,7 +77,7 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
-          "GonzaloMortgageCalculator": {
+          "MortgageCalculator-GonzaloHidalgo": {
             "target": "Package",
             "version": "[1.0.0, )"
           }

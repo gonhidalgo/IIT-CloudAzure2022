@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Project3/1.0.0": {
         "dependencies": {
+          "MortgageCalculator-GonzaloHidalgo": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -322,6 +323,17 @@
         },
         "compile": {
           "Project3.dll": {}
+        }
+      },
+      "MortgageCalculator-GonzaloHidalgo/1.0.0": {
+        "runtime": {
+          "lib/net5.0/MortgageCalculator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/net5.0/MortgageCalculator.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2029,6 +2041,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "MortgageCalculator-GonzaloHidalgo/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vnu9OO59Hck2BuNk5vMut8CYhdFfTqNQKBD7Vh8JF97VudhW2HMvsuPEdEs6iE9c1Ei45DQ3behek1wx54VHbg==",
+      "path": "mortgagecalculator-gonzalohidalgo/1.0.0",
+      "hashPath": "mortgagecalculator-gonzalohidalgo.1.0.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

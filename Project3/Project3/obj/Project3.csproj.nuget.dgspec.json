@@ -45,7 +45,7 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "GonzaloMortgageCalculator": {
+            "MortgageCalculator-GonzaloHidalgo": {
               "target": "Package",
               "version": "[1.0.0, )"
             }

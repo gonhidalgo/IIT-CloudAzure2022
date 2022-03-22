@@ -9,4 +9,3 @@ C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\L
 C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\MortgageCalculator.dll
 C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\ref\MortgageCalculator.dll
 C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\MortgageCalculator.pdb
-C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\MortgageCalculator.csproj.AssemblyReference.cache

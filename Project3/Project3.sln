@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project3", "Project3\Project3.csproj", "{DBBE120E-D44B-47CB-93CC-A66A926DABF2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GonzaloMortgageCalculator", "MortgageCalculator\GonzaloMortgageCalculator.csproj", "{82C85BD0-9048-490D-A39C-3AB55292F841}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MortgageCalculator", "MortgageCalculator\MortgageCalculator.csproj", "{82C85BD0-9048-490D-A39C-3AB55292F841}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
