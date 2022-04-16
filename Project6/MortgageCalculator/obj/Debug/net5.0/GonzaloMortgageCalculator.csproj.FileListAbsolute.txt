@@ -1,0 +1,12 @@
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\bin\Debug\net5.0\GonzaloMortgageCalculator.deps.json
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\bin\Debug\net5.0\GonzaloMortgageCalculator.dll
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\bin\Debug\net5.0\ref\GonzaloMortgageCalculator.dll
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\bin\Debug\net5.0\GonzaloMortgageCalculator.pdb
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\GonzaloMortgageCalculator.csproj.AssemblyReference.cache
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\GonzaloMortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\GonzaloMortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\GonzaloMortgageCalculator.AssemblyInfo.cs
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\GonzaloMortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\GonzaloMortgageCalculator.dll
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\ref\GonzaloMortgageCalculator.dll
+C:\Users\gonza\Documents\Universidad\2MUITChicago\Asignaturas\Spring2022\Azure\Labs\Lab3\Project3\MortgageCalculator\obj\Debug\net5.0\GonzaloMortgageCalculator.pdb

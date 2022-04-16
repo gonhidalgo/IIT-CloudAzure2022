@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="UTF-8">
+    <title>Fade In</title>
+    <link href="stylesheets/IT411b.css" rel="stylesheet">
+    <!-- #1 Get JQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <script>
+        // #2 drops in JQuery $(document.ready)
+
+        var initialSeperatorChar;
+        var endPointURL = "http://localhost:7071/api/MortgageCalc";
+
+        $(document).ready(function () {
+
+            initialSeperatorChar = endPointURL.toLowerCase().includes("?") ? '&' : '?';
+
+            $("#change").click(function () {
+
+                var principal = $("#principal").val();
+                var rate = $("#rate").val();
+                var years = $("#years").val();
+
+                var urlWithArgs = encodeURI(`${endPointURL}${initialSeperatorChar}principal=${principal}&rate=${rate}&years=${years}`);
+
+                $("#msg").load(urlWithArgs, function (responseTxt, statusTxt, xhr) {
+                    if (statusTxt == "success")
+                        console.log(statusTxt);
+                    if (statusTxt == "error")
+                        alert("Error: " + xhr.status + ": " + xhr.statusText);
+                });
+
+            });
+        });
+    </script>
+
+</head>
+
+<body>
+    <!-- #3 specify the button-->
+    <label>Enter Loan:</label>
+    <input id="principal" type="text">
+    <label>Enter Interest:</label>
+    <input id="rate" type="text">
+    <label>Enter Years:</label>
+    <input id="years" type="text">
+
+    <input id="change" type="button" value="Calculate Mortgage">
+    <p id="msg"></p>
+</body>
+</html>
